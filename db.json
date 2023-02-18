@@ -1,9 +1,135 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "cart": [
+    {
+      "id": 3,
+      "brand": "van-heusen",
+      "title": "Regukar Fit Printed Shirt",
+      "image": "https://picsum.photos/200",
+      "category": "men",
+      "price": 1400,
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "brand": "blackberrys",
+      "title": "Regukar Fit Printed Shirt",
+      "image": "https://picsum.photos/200",
+      "category": "men",
+      "price": 699,
+      "quantity": 1
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "order": [
+    {
+      "id": 2,
+      "brand": "blackberrys",
+      "title": "Regukar Fit Printed Shirt",
+      "image": "https://picsum.photos/200",
+      "category": "men",
+      "price": 699,
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "brand": "van-heusen",
+      "title": "Regukar Fit Printed Shirt",
+      "image": "https://picsum.photos/200",
+      "category": "men",
+      "price": 1400,
+      "quantity": 1
+    },
+    [
+      {
+        "id": 2,
+        "brand": "blackberrys",
+        "title": "Regukar Fit Printed Shirt",
+        "image": "https://picsum.photos/200",
+        "category": "men",
+        "price": 699,
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "brand": "van-heusen",
+        "title": "Regukar Fit Printed Shirt",
+        "image": "https://picsum.photos/200",
+        "category": "men",
+        "price": 1400,
+        "quantity": 1
+      }
+    ],
+    [
+      {
+        "id": 3,
+        "brand": "van-heusen",
+        "title": "Regukar Fit Printed Shirt",
+        "image": "https://picsum.photos/200",
+        "category": "men",
+        "price": 1400,
+        "quantity": 1
+      }
+    ],
+    [
+      {
+        "id": 3,
+        "brand": "van-heusen",
+        "title": "Regukar Fit Printed Shirt",
+        "image": "https://picsum.photos/200",
+        "category": "men",
+        "price": 1400,
+        "quantity": 1
+      }
+    ],
+    [
+      {
+        "id": 3,
+        "brand": "van-heusen",
+        "title": "Regukar Fit Printed Shirt",
+        "image": "https://picsum.photos/200",
+        "category": "men",
+        "price": 1400,
+        "quantity": 1
+      }
+    ],
+    [
+      {
+        "id": 3,
+        "brand": "van-heusen",
+        "title": "Regukar Fit Printed Shirt",
+        "image": "https://picsum.photos/200",
+        "category": "men",
+        "price": 1400,
+        "quantity": 1
+      },
+      {
+        "id": 2,
+        "brand": "blackberrys",
+        "title": "Regukar Fit Printed Shirt",
+        "image": "https://picsum.photos/200",
+        "category": "men",
+        "price": 699,
+        "quantity": 1
+      }
+    ],
+    [
+      {
+        "id": 3,
+        "brand": "van-heusen",
+        "title": "Regukar Fit Printed Shirt",
+        "image": "https://picsum.photos/200",
+        "category": "men",
+        "price": 1400,
+        "quantity": 1
+      },
+      {
+        "id": 2,
+        "brand": "blackberrys",
+        "title": "Regukar Fit Printed Shirt",
+        "image": "https://picsum.photos/200",
+        "category": "men",
+        "price": 699,
+        "quantity": 1
+      }
+    ]
+  ]
 }
